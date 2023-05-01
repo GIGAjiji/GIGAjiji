@@ -169,10 +169,10 @@ de Muito, Muito Longe.
 "Também conhecidos como
 Mamã e Papá."
 A Mamã e o Papá?
-- Príncipe Encantado?
-- Baile Real? Posso ir?
-- Nós não vamos.
-- O quê?
+-Príncipe Encantado?
+-Baile Real? Posso ir?
+-Nós não vamos.
+-O quê?
 Que dizer, não achas
 que eles ficariam um pouco...
 ... chocados em te verem assim?
@@ -603,8 +603,8 @@ da mais alta maldita torre...
 E o que é que ele encontrou?
 Um tipo de lobo travesti que lhe
 contou que a sua princesa...
-- Se eu puder...
-- Já estava casada.
+-Se eu puder...
+-Já estava casada.
 Não foi por culpa minha.
 Ele não chegou lá a tempo.
 Parem a carruagem!
@@ -653,8 +653,8 @@ Estou à procura da Meia-irmã Feia.
 Ah! Aí está. Certo.
 Sabe, eu precisava que
 tratassem da saúde de alguém.
-- Quem é o gajo?
-- Bem, não é um gajo, digamos.
+-Quem é o gajo?
+-Bem, não é um gajo, digamos.
 Ele é um ogre.
 Ei, amigo, deixe-me dar-lhe
 uma dica.
@@ -715,12 +715,12 @@ Não, não. Eu estava só a ler...
 hum... um livro aterrador.
 Esperava que me desculpasses pelo meu
 comportamento deplorável de há pouco.
-- Ok...
-- Eu não sei o que me deu.
+-Ok...
+-Eu não sei o que me deu.
 Achas que podíamos fingir que não
 se passou nada e começarmos de novo...
-- Olhe, Sua Majestade, eu só...
-- Por favor. Chama-me Pai.
+-Olhe, Sua Majestade, eu só...
+-Por favor. Chama-me Pai.
 Pai. Nós agimos ambos
 como ogres.
 Talvez só precisemos de algum tempo
@@ -740,8 +740,8 @@ O que disse ele? "Vão em direcção
 à parte mais escura do bosque..."
 "Passem pelas árvores sinistras
 com galhos assustadores."
-- O arbusto em forma de Shirley Bassey!
-- Já o passámos 3 vezes!
+-O arbusto em forma de Shirley Bassey!
+-Já o passámos 3 vezes!
 Foste tu quem disse para
 não perguntarmos pelo caminho.
 Oh, esplêndido. A minha hipótese de
@@ -751,8 +751,8 @@ na floresta contigo!
 Não fiques ofendido comigo!
 Eu só estou a tentar ajudar.
 Eu sei! Eu sei.
-- Desculpa-me, ok?
-- Ei, não te preocupes com isso.
+-Desculpa-me, ok?
+-Ei, não te preocupes com isso.
 É que preciso mesmo de acertar
 as coisas com este tipo.
 Sim, claro. Vamos lá
@@ -767,26 +767,26 @@ Ei, Shrek. Os burros não ronronam.
 O que pensas que sou, algum tipo de...
 Enfrentem-me, se se atrevem!
 Olha! Um gatinho.
-- Cuidado, Shrek! Ele está armado!
-- É um gato, Burro.
+-Cuidado, Shrek! Ele está armado!
+-É um gato, Burro.
 Vem cá, gatinho.
 Vem, gatinho. Anda.
 Oh, vem cá, gatinho.
-- Aguenta Shrek! Vou a caminho!
-- Rápido! Tira-o! Tira-o!
+-Aguenta Shrek! Vou a caminho!
+-Rápido! Tira-o! Tira-o!
 Oh, Deus, Oh...
 Não!
-- Cuidado, Shrek! Fica quieto!
-- Tira-o!
+-Cuidado, Shrek! Fica quieto!
+-Tira-o!
 Shrek! Não te mexas!
-- Falhei?
-- Não. Acertaste neles.
+-Falhei?
+-Não. Acertaste neles.
 Agora, ogre, implora por
 misericórdia ao...
 Gato... das Botas!
 Eu mato aquele gato!
-- Bola de pelo.
-- Oh! Isso é nojento!
+-Bola de pelo.
+-Oh! Isso é nojento!
 O que devemos fazer com ele?
 Eu digo para pegarmos na espada
 e capamo-lo já aqui!
@@ -853,24 +853,24 @@ Assim é que é! Shrek e Burro
 noutra aventura mirabolante.
 Ninguém nos pára agora! Uooo!
 Estamos a caminho!
-- Pára, Ogre! Eu julguei-te mal.
-- Entra para o clube. Temos casacos.
+-Pára, Ogre! Eu julguei-te mal.
+-Entra para o clube. Temos casacos.
 Pela minha honra, sou obrigado a
 acompanhar-te até ter salvo a tua vida
 já que tu poupaste a minha.
 A posição de animal falante
 irritante já foi ocupada.
 Vamos, Shrek. Shrek?
-- Shrek!
-- Ah, vá lá, Burro. Olha para ele...
+-Shrek!
+-Ah, vá lá, Burro. Olha para ele...
 ... nas suas botinhas pequeninas.
 Sabes quantos gatos conseguem usar botas?
 Honestamente.
-- Vamos ficar com ele!
-- Repete?
+-Vamos ficar com ele!
+-Repete?
 Escuta. Ele está a ronronar!
-- Ah, agora ele é querido.
-- Calma, Burro. Acalma-te.
+-Ah, agora ele é querido.
+-Calma, Burro. Acalma-te.
 Acalmar-me? Eu devia acalmar-me?
 Olha quem está a mandar quem acalmar-se!
 Shrek!
@@ -886,15 +886,15 @@ eu acho que não importa.
 Como é que sabemos
 que irá haver um baile?
 Mãe. Pai.
-- Oh, olá, querida.
-- O que foi, Cedric? Certo! Já vou.
+-Oh, olá, querida.
+-O que foi, Cedric? Certo! Já vou.
 Mãe, viste o Shrek?
 Não vi.
 Devias perguntar ao teu pai.
 E usa palavras curtas, querida.
 Ele está um bocadinho lento esta manhã.
-- Posso ajuda-lo, Sua Majestade?
-- Ah, sim!
+-Posso ajuda-lo, Sua Majestade?
+-Ah, sim!
 Hum! Requintado.
 Como se chama este prato?
 Esse seria o pequeno-almoço do cão,
@@ -954,9 +954,9 @@ Está bem, nós vamos só dar uma olhadela.
 Oh. A propósito.
 Penso que era melhor se a Fada Madrinha
 não soubesse que nos estivemos aqui.
-- Percebes o que estou a dizer? Hum?
-- Pára!
-- Claro. Entrem.
+-Percebes o que estou a dizer? Hum?
+-Pára!
+-Claro. Entrem.
 Uma gota de desejo.
 Malandro!
 Um pouco de paixão.
@@ -1006,8 +1006,8 @@ bochechas de gato da minha cara.
 Meu, isto fede!
 Tu não cheiras exactamente
 a um cesto de rosas.
-- Bem, um destes tem de ajudar.
-- Eu já estava aqui a preparar um plano!
+-Bem, um destes tem de ajudar.
+-Eu já estava aqui a preparar um plano!
 As nossas cabeças já estão
 a funcionar como uma.
 Pára, pára. Se nos precisarmos um perito
@@ -1028,14 +1028,14 @@ Vou é ver aquela bruxa vir aqui e enfiar-te
 um mundo de dor pelo traseiro acima.
 Eu também me vou rir.
 Vou estar a rir-me para mim próprio.
-- O que é que vês?
-- Amaciador para pele de sapo.
+-O que é que vês?
+-Amaciador para pele de sapo.
 Tenho a certeza que um BM é a solução perfeita
 para problemas matrimoniais.
-- Elfa Seltzer?
-- Na-na.
-- Hex Lax?
-- Não! Tenta "jeitoso".
+-Elfa Seltzer?
+-Na-na.
+-Hex Lax?
+-Não! Tenta "jeitoso".
 Desculpa. Não há jeitoso.
 Ei! E que tal "Felizes para sempre"?
 Bem, o que é que faz?
@@ -1079,13 +1079,13 @@ Não me interessa de quem é a culpa.
 Tratem só de limpar isto tudo!
 E alguém me traga qualquer coisa bem frita
 e coberta com chocolate!
-- Mãe!
-- Charmoso, meu querido.
+-Mãe!
+-Charmoso, meu querido.
 Não é uma boa altura,
 A mãezinha está a trabalhar.
 O que é que aconteceu aqui?
-- O ogre, foi o que foi!
-- O quê? Onde é que ele está, mãe?
+-O ogre, foi o que foi!
+-O quê? Onde é que ele está, mãe?
 Eu arrancarei a sua cabeça
 dos seus ombros!
 Eu irei destruí-lo onde estiver!
@@ -1109,8 +1109,8 @@ o seu verdadeiro amor.
 Se um de vocês beber isto,
 ambos ficarão bem.
 Felicidade, conforto e beleza divinal."
-- Ficarão ambos bem?
-- Quer dizer que também vai afectar a Fiona.
+-Ficarão ambos bem?
+-Quer dizer que também vai afectar a Fiona.
 Ei, meu, isto não me cheira bem. Os meus
 sentidos de burro estão todos a tinir.
 Larga essa jarra de voodoo
@@ -1136,16 +1136,16 @@ Não me sinto diferente.
 Pareço estar diferente?
 Ainda me pareces um asno.
 Talvez não funcione com burros.
-- Bem, à nossa, Fiona.
-- Shrek?
-- Se bebes isso, não há retorno.
-- Eu sei.
-- Nada de rebolar na lama?
-- Eu sei.
-- Nada de comichões no rabo?
-- Eu sei!
-- Mas tu adoras ser um ogre!
-- Eu sei!
+-Bem, à nossa, Fiona.
+-Shrek?
+-Se bebes isso, não há retorno.
+-Eu sei.
+-Nada de rebolar na lama?
+-Eu sei.
+-Nada de comichões no rabo?
+-Eu sei!
+-Mas tu adoras ser um ogre!
+-Eu sei!
 Mas eu amo mais a Fiona.
 Shrek, não! Espera!
 Tem de ser... Acho que apanhaste
@@ -1175,8 +1175,8 @@ Apostar o meu traseiro?
 Vou já, Elizabeth!
 Burro?
 Estás bem?
-- Ei, chefe. Vamos rapá-lo.
-- B-Burro?
+-Ei, chefe. Vamos rapá-lo.
+-B-Burro?
 Aí estás tu!
 Sentimos a tua falta ao jantar.
 O que foi, querida?
@@ -1199,8 +1199,8 @@ Olha para ele! Silêncio. Olha para mim.
 Bom dia, dorminhoco.
 Bom dia!
 Nós adoramos o teu gatinho!
-- Oh... A minha cabeça...
-- Toma, eu trouxe um balde com água.
+-Oh... A minha cabeça...
+-Toma, eu trouxe um balde com água.
 Obrigado.
 Uhh!
 Aahh!
@@ -1209,20 +1209,20 @@ Um nariz giro e arredondado?
 Cabelos fartos e ondulados?
 Nádegas firmes e redondas?
 Estou... Estou...
-- Magnífico!
-- Eu que o diga.
+-Magnífico!
+-Eu que o diga.
 Sou a Jill. Qual é o teu nome?
-- Um... Shrek.
-- Shrek? Uau. És da Europa?
-- Estás tenso.
-- Quero massajar-lhe os ombros.
-- Estou a tratar disso.
-- Não tenho nada para esfregar.
+-Um... Shrek.
+-Shrek? Uau. És da Europa?
+-Estás tenso.
+-Quero massajar-lhe os ombros.
+-Estou a tratar disso.
+-Não tenho nada para esfregar.
 Põe-te na fila.
-- Viram o meu burro?
-- A quem estás a chamar burro?
-- Burro? Tu és um...
-- Um garanhão!
+-Viram o meu burro?
+-A quem estás a chamar burro?
+-Burro? Tu és um...
+-Um garanhão!
 Posso relinchar.
 Posso contar.
 Olha para mim, Shrek!
@@ -1245,8 +1245,8 @@ quem a bebeu deve obter um beijo
 do seu amado, até a meia-noite."
 Meia-noite?
 Porquê sempre à meia-noite?
-- Escolhe-me! Eu serei o teu verdadeiro amor!
-- Eu serei o teu verdadeiro amor.
+-Escolhe-me! Eu serei o teu verdadeiro amor!
+-Eu serei o teu verdadeiro amor.
 Eu serei verdadeira... o suficiente.
 Olhem, meninas,
 eu já tenho um verdadeiro amor.
@@ -1257,8 +1257,8 @@ Vamos admitir.
 És um bocadinho mais agradável aos olhos.
 Por dentro tu és o mesmo
 mesquinho, salgado...
-- Calma.
-- ...caprichoso, ofensivo,
+-Calma.
+-...caprichoso, ofensivo,
 furioso ogre que sempre foste.
 E tu continuas o mesmo burro irritante.
 Sim.
@@ -1267,8 +1267,8 @@ Cuidado, Princesa.
 Aqui vai o novo eu.
 As primeiras coisas primeiro.
 Precisamos de te tirar dessas roupas.
-- Pronto?
-- Pronto!
+-Pronto?
+-Pronto!
 Condutor, pare!
 Oh, Deus! Ajudem-me, por favor!
 Os meus dias de corridas estão acabados!
@@ -1280,8 +1280,8 @@ possa fazer por ti?
 Bem, acho que existe uma coisa.
 Tira a peruca poeirenta
 e tira as tuas ceroulas.
-- Nada mau.
-- Nada mau mesmo.
+-Nada mau.
+-Nada mau mesmo.
 Pai?
 Está tudo bem, Pai?
 Obrigado, senhores!
@@ -1311,18 +1311,18 @@ que tinha conseguido
 Parecia-me que o gosto
 não era tão doce
 Mu-Mu-Mu-Mudanças
-- Vira-te e enfrenta o estranho
-- Fiona!
-- Shrek?
-- Mu-Mu-Mudanças
+-Vira-te e enfrenta o estranho
+-Fiona!
+-Shrek?
+-Mu-Mu-Mudanças
 Não quero ser um mais rico
 O tempo pode mudar-me
 Mas eu não posso seguir o tempo
 Fiona?
 Olá, bonitão.
 Shrek!
-- Princesa!
-- Burro?
+-Princesa!
+-Burro?
 Uau! Aquela poção também
 funcionou contigo?
 Que poção?
@@ -1331,8 +1331,8 @@ uma poção mágica. E bem...
 Agora, somos sexy!
 Shrek?
 Por ti querida... Eu podia ser.
-- Isso. Querias.
-- Burro, onde está o Shrek?
+-Isso. Querias.
+-Burro, onde está o Shrek?
 Ele entrou à tua procura.
 Shrek?
 Fiona! Fiona!
@@ -1347,19 +1347,19 @@ A poção mudou
 muitas coisas, Fiona.
 Mas não o que eu sinto por ti.
 Fiona?
-- Encantador?
-- Achas?
+-Encantador?
+-Achas?
 Pai. Esperava muito
 que aprovasse.
-- Hum... quem és tu?
-- Mãe, sou eu, Shrek.
+-Hum... quem és tu?
+-Mãe, sou eu, Shrek.
 Sei que nunca terá uma segunda oportunidade
 para uma primeira impressão,
 mas, bem, o que achas?
 Fiona! Fiona!
 Fiona!
-- Fiona!
-- Fiona, Fiona! Ho-ho-ho!
+-Fiona!
+-Fiona, Fiona! Ho-ho-ho!
 Oh, gaita! Acho que eles não nos
 conseguem ouvir, pombinho.
 Não acha que já arruinou
@@ -1407,8 +1407,8 @@ Estás a gozar?
 Ele é lindo!
 Ele tem um rosto que parece
 que foi esculpido por anjos.
-- Oh. Ele parece um sonho.
-- Sabem...
+-Oh. Ele parece um sonho.
+-Sabem...
 estranhamente, isto não está
 a fazer sentir-me melhor.
 Olhem, rapazes.
@@ -1439,15 +1439,15 @@ ser aquele horroroso ogre?
 Não, não. Ninguém tem culpa.
 Talvez seja melhor apenas
 cancelarmos tudo, não?
-- O quê?
-- Não se pode forçar ninguém a apaixonar-se!
+-O quê?
+-Não se pode forçar ninguém a apaixonar-se!
 Permita-me discordar.
 Eu faço isso o tempo todo!
 Faça a Fiona beber isto e ela vai apaixonar-se
 pelo primeiro homem que ela beijar,
 que será o Encantado.
-- Hum... não.
-- O que é que disseste?
+-Hum... não.
+-O que é que disseste?
 Não posso. Não o farei.
 Isso é que vai.
 Se se lembrar, fui eu que vos ajudei
@@ -1455,8 +1455,8 @@ com o vosso "felizes para sempre".
 E posso retirá-lo assim
 tão facilmente.
 É isso que quer? É?
-- Não
-- Lindo menino.
+-Não
+-Lindo menino.
 Agora, temos que ir embora.
 Tenho que fazer o penteado
 do "Encantado" antes do baile.
@@ -1509,13 +1509,14 @@ Detesto estes espectáculos de Bailes.
 Aborrecem-me de morte.
 Muda para a Roda da Tortura
 Não mudo nada, senhor,
+EiTS
 até ter visto o Shrek e a Fiona.
 Chatos é o que vocês são!
 Ei, ratos, passem-me
 uma asa de búfalo!
 Não, à tua esquerda. À tua esquerda!
-- Esta noite em "Cavaleiros"...
-- Este sim é um bom programa!
+-Esta noite em "Cavaleiros"...
+-Este sim é um bom programa!
 Temos um Bronco branco em direcção a Este
 dentro da floresta. Pedimos reforços.
 É hora dos Homens de Aço mostrarem
@@ -1525,14 +1526,14 @@ não ficam impunes.
 Porque me agarram?
 Violência policial!
 Tenho que falar com a Princesa Fiona!
-- Nós avisámos-te!
-- Au! Au!
+-Nós avisámos-te!
+-Au! Au!
 Será que escapam?
 Alguém deixou fugir o gato do saco?
 Seus cães porcos capitalistas!
 Tirem-no de cima de mim!
-- Gatária! (erva que provoca euforia nos gatos)
-- Isso não é meu.
+-Gatária! (erva que provoca euforia nos gatos)
+-Isso não é meu.
 Encontrem a princesa Fiona!
 Sou um burro!
 Diz-lhe Shrek...
@@ -1587,30 +1588,30 @@ Oh...
 Rebentamento!
 Atenção aí em baixo!
 Rápido! Diz uma mentira!
-- O que queres que diga?
-- Qualquer coisa, mas rápido!
+-O que queres que diga?
+-Qualquer coisa, mas rápido!
 Diz uma loucura como "estou
 a usar roupa interior feminina!"
 Estou a usar roupa interior feminina.
-- Estás?
-- Claro que não!
+-Estás?
+-Claro que não!
 Parece certamente que estás!
-- Não estou nada
-- De que tipo?
-- É um fio dental!
-- Auu! São cuecas curtas!
-- Não são nada.
-- São sim!
+-Não estou nada
+-De que tipo?
+-É um fio dental!
+-Auu! São cuecas curtas!
+-Não são nada.
+-São sim!
 Aqui vamos. Aguenta-te.
 Espera, espera, espera!
 Au! Au! Ei, ei, ei!
 Au!
-- Desculpem?
-- O que é? Bichano!
+-Desculpem?
+-O que é? Bichano!
 Desculpe lá, mas importa-se
 de me soltar?
-- Desculpe, patrão!
-- Parem com as palhaçadas!
+-Desculpe, patrão!
+-Parem com as palhaçadas!
 Temos de impedir aquele beijo!
 Pensava que a ias largar.
 Eu ia, mas não posso deixar
@@ -1623,8 +1624,8 @@ O castelo está guardado.
 Há um fosso e tudo!
 Malta, parece que estamos no riacho de
 chocolate sem um pau de um gelado.
-- O que é?
-- Ainda conheces o pasteleiro?
+-O que é?
+-Ainda conheces o pasteleiro?
 Bem, claro!
 Ele está em Drury Lane. Porquê?
 Porque vamos precisar de farinha.
@@ -1654,8 +1655,8 @@ Estou a fazer o meu papel, Fiona.
 Isso é brilho nos teus lábios?
 Mm. Sabor de cereja.
 Queres provar?
-- Ugh! Que é que se passa contigo?
-- Mas, docinho...
+-Ugh! Que é que se passa contigo?
+-Mas, docinho...
 Dó Menor, começa com Dó Menor.
 Senhoras e senhores.
 Queria dedicar esta música à...
@@ -1681,8 +1682,8 @@ Muito bem, grandalhão!
 Vamos dar cabo desta festa!
 Homens às catapultas!
 Apontar! Fogo!
-- Agarrem-se!
-- Ooh! Bonito!
+-Agarrem-se!
+-Ooh! Bonito!
 O botão de goma não!
 Projéctil!
 Ha-ha! Está bem!
@@ -1691,8 +1692,8 @@ Nas minhas mais loucas fantasias
 Vai, Mongo! Vai!
 Homens aos caldeirões!
 Depois de ti, Mongo.
-- É isso! Força!
-- Cuidado!
+-É isso! Força!
+-Cuidado!
 Shrek!
 Mais calor, menos espuma!
 Lá em cima onde as montanhas
@@ -1719,13 +1720,13 @@ E ele tem que ser rápido
 E tem que ficar fresco
 Depois da luta
 Preciso de um herói
-- Parem!
-- Ei, tu! Afasta-te da minha mulher.
-- Shrek?
+-Parem!
+-Ei, tu! Afasta-te da minha mulher.
+-Shrek?
 Não podias voltar apenas para
 o teu pântano e deixar-nos em paz.
-- Agora!
-- Porcos e cobertores!
+-Agora!
+-Porcos e cobertores!
 Pinóquio! Apanha a varinha!
 Vejo Londres! Vejo a França!
 Uaaaa!
@@ -1736,22 +1737,22 @@ Burro!
 Oh!
 Sou um rapaz de verdade! Aah!
 Oh!
-- Ha!
-- Ah.
+-Ha!
+-Ah.
 Isso é meu!
 Rezem por misericórdia, do bichano...
 E do Burro!
 Ela tomou a poção!
 Beija-a agora!
 Não!
-- Fiona.
-- Shrek.
+-Fiona.
+-Shrek.
 Harold! Era suposto teres-lhe
 dado a poção!
 Bem, parece que lhe dei
 o chá errado.
-- Mãezinha!
-- Mãezinha?
+-Mãezinha!
+-Mãezinha?
 Eu disse-te.
 Os Ogres não vivem felizes para sempre.
 Uoo!
@@ -1763,8 +1764,8 @@ Harold?
 Pai?
 Esperava que nunca
 me visses assim.
-- E ele não facilitou contigo!
-- Burro!
+-E ele não facilitou contigo!
+-Burro!
 Não, tem razão.
 Peço desculpa.
 Aos dois.
@@ -1786,12 +1787,12 @@ Patrão! A poção "Felizes para sempre"!
 Meia-noite!
 Fiona. É isto que queres?
 Ser assim para sempre?
-- O quê?
-- Porque se me beijares agora...
+-O quê?
+-Porque se me beijares agora...
 podemos ficar assim.
 Farias isso?
-- Por mim?
-- Sim.
+-Por mim?
+-Sim.
 Eu quero o que qualquer
 princesa quer.
 Viver feliz para sempre...
@@ -1833,11 +1834,11 @@ Vivendo "la vida louca"
 Os seus lábios são vermelho diabólico
 E a sua pele da cor de moca
 Ela vai esgotar-te
-- Vivendo "la vida louca"
-- Ela vive "louca"!
+-Vivendo "la vida louca"
+-Ela vive "louca"!
 Vivendo "la vida louca"
-- Digam mais uma vez agora!
-- Vivendo "la vida louca"
+-Digam mais uma vez agora!
+-Vivendo "la vida louca"
 Burro, isso é espanhol!
 Ela vai empurrar e puxar-te para baixo
 Vivendo "la vida louca"
