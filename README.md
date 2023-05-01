@@ -1431,8 +1431,8 @@ Fada Madrinha, Encantado.
 nos arrastar para este lugar, Harold.
 Bem, receio que a Fiona não esteja realmente...
 de amores pelo Príncipe Encantado.
-- P.S.I., a culpa não é minha.
-- Não, claro que não, querido.
+-P.S.I., a culpa não é minha.
+-Não, claro que não, querido.
 Quero dizer, como posso ser encantador
 quando tenho que fingir
 ser aquele horroroso ogre?
@@ -1873,4 +1873,4 @@ A sério?
 Papá!
 Vejam os nossos bebés mutantes!
 Tenho que arranjar um trabalho.
-
+EiTS
