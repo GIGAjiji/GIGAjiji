@@ -36,12 +36,12 @@ dirigindo-se até à sua silhueta adormecida,
 afastar as cortinas de diáfano
 para encontrá-la...
 O que é?
-- Princesa... Fiona?
-- Não!
+-Princesa... Fiona?
+-Não!
 Oh, graças a Deus.
 Onde é que ela está?
-- Está em Lua-de-mel.
-- Lua-de-mel? Com quem?
+-Está em Lua-de-mel.
+-Lua-de-mel? Com quem?
 Então ela disse,
 qual é o problema, querido?
 Qual é que é o problema?
@@ -97,8 +97,8 @@ Acidentalmente apaixonado
 Estou apaixonado
 É tão bom estar em casa!
 Só tu e eu e...
-- Dois pode ser tão mau como um...
-- Burro?
+-Dois pode ser tão mau como um...
+-Burro?
 Shrek! Fiona! Bons olhos os vejam!
 Dá cá um abraço, Shrek,
 sua velha máquina do amor.
@@ -109,8 +109,8 @@ Estava só a tomar conta
 do teu ninho do amor por ti.
 Oh, queres dizer tipo... separar
 o correio e regar as plantas?
-- Sim, e alimentar os peixes também!
-- Eu não tenho nenhuns peixes.
+-Sim, e alimentar os peixes também!
+-Eu não tenho nenhuns peixes.
 Agora tens. Eu chamo aquele Shrek
 e ao outro Fiona.
 Aquele Shrek é um malandro.
@@ -137,8 +137,8 @@ Não digas mais nada. Não têm
 que se preocupar com nada.
 Estarei sempre aqui para assegurar
 que ninguém vos incomoda.
-- Burro!
-- Sim, companheiro?
+-Burro!
+-Sim, companheiro?
 Estás a incomodar-me.
 Oh, Ok. Tudo bem, fixe. Acho eu...
 Eu e o Pinocchio íamos a um torneio
@@ -224,30 +224,30 @@ Fá-los em chá! Paga-lhes um copo!
 Conhece as mães deles!
 Tira-lhes o leite todo!
 Coirão!
-- Já chegámos?
-- Não.
-- Já chegámos?
-- Ainda não.
-- Ok, já chegámos?
-- Não.
-- Já chegámos?
-- Não!
-- Já chegámos?
-- Sim.
-- A sério?
-- Não!
-- Já chegámos?
-- Não!
-- Já chegámos?
-- Ainda não!
-- Já chegámos?
-- Não!
+-Já chegámos?
+-Não.
+-Já chegámos?
+-Ainda não.
+-Ok, já chegámos?
+-Não.
+-Já chegámos?
+-Não!
+-Já chegámos?
+-Sim.
+-A sério?
+-Não!
+-Já chegámos?
+-Não!
+-Já chegámos?
+-Ainda não!
+-Já chegámos?
+-Não!
 Já chegámos?
 Não tem piada. É muito imaturo.
 É por isto que ninguém gosta de ogres.
 Tu é que ficas a perder!
-- Eu vou parar de falar.
-- Finalmente!
+-Eu vou parar de falar.
+-Finalmente!
 Isto está a demorar imenso, Shrek.
 Nem há filme de viagem nem nada.
 O Reino de Muito, Muito Longe, Burro.
@@ -262,8 +262,8 @@ Durante cinco minutos...
 Podias deixar de ser tu próprio...
 ... durante cinco minutos!
 Já chegámos?
-- Sim!
-- Finalmente!
+-Sim!
+-Finalmente!
 Uau!
 Vai ser só desejos de champanhe e
 sonhos de caviar a partir de agora.
@@ -286,8 +286,8 @@ Anunciando o tão esperado retorno
 da bela Princesa Fiona
 e do seu novo marido.
 Bem, é agora.
-- É agora.
-- É agora.
+-É agora.
+-É agora.
 É agora.
 Hum... Porque não vão andando?
 Eu estaciono o carro.
@@ -295,8 +295,8 @@ Então...
 ... ainda achas que foi boa ideia?
 É claro! Olha, a Mamã e o Papá
 parecem felizes por nos verem.
-- Quem raio são eles?
-- Acho que é a nossa pequena.
+-Quem raio são eles?
+-Acho que é a nossa pequena.
 Aquela não é pequena!
 É mesmo um grande problema.
 Ela não devia beijar o Príncipe
@@ -307,8 +307,8 @@ Contente?
 Nós viemos, já os vimos...
 Agora vamos embora antes que
 eles acendam as tochas.
-- São os meus pais!
-- Eles trancaram-te numa torre!
+-São os meus pais!
+-Eles trancaram-te numa torre!
 Ei! Isso foi para meu próprio...
 Bem! É a nossa oportunidade. Voltamos
 para dentro e fingimos que não estamos.
@@ -319,10 +319,10 @@ Shrek, já chega!
 Vai ser tudo...
 Um desastre!
 De maneira nenhuma...
-- Tu consegues.
-- Mas realmente eu...
-- Realmente...
-- não... quero... estar...
+-Tu consegues.
+-Mas realmente eu...
+-Realmente...
+-não... quero... estar...
 Aqui!
 Mamã... Papá...
 Quero que conheçam o meu marido...
@@ -339,17 +339,17 @@ Que é isso de "não está na lista"?
 Não me digas que não sabes quem sou.
 Como estão todos?
 Obrigado por esperarem.
-- Foi difícil encontrar este lugar.
-- Não! Não! Burro mau. Mau. Fora!
+-Foi difícil encontrar este lugar.
+-Não! Não! Burro mau. Mau. Fora!
 Não, papá! Está tudo bem.
 Ele está connosco.
-- Ele ajudou a resgatar-me do dragão.
-- Sou eu: O nobre corcel.
+-Ele ajudou a resgatar-me do dragão.
+-Sou eu: O nobre corcel.
 Empregado! Que tal uma
 tigela para o corcel?
 Oh, não!
-- Shrek?
-- Sim?
+-Shrek?
+-Sim?
 Oh, desculpa!
 Sopa deliciosa, Sra. R.
 Não, não. Querido.
@@ -358,8 +358,8 @@ Então Fiona, conta-nos
 como é o lugar onde moras.
 Bem...
 O Shrek possui as suas próprias terras.
-- Não é querido?
-- Oh, sim.
+-Não é querido?
+-Oh, sim.
 É numa floresta encantada
 onde abundam esquilos
 e pequenos patinhos giros e...
@@ -372,15 +372,15 @@ Suponho que seja um bom lugar
 para criarem as crianças.
 É um pouco cedo
 para pensar nisso, não é?
-- De facto. Acabei de começar a comer.
-- Harold!
-- O que quer dizer com isso?
-- Papá, é óptimo, ok?
-- Para o seu tipo, sim!
-- O meu tipo?
+-De facto. Acabei de começar a comer.
+-Harold!
+-O que quer dizer com isso?
+-Papá, é óptimo, ok?
+-Para o seu tipo, sim!
+-O meu tipo?
 Tenho de ir à casa de banho.
-- O jantar está servido.
-- Deixem lá. Eu aguento.
+-O jantar está servido.
+-Deixem lá. Eu aguento.
 Bon Appetit!
 Oh, comida mexicana!
 A minha favorita!
@@ -398,20 +398,20 @@ comam os vossos próprios filhos!
 Pai!
 Oh não, preferimos os que foram
 trancados numa torre!
-- Shrek, por favor!
-- Só fiz isso porque a amo.
+-Shrek, por favor!
+-Só fiz isso porque a amo.
 Oh sim, uma creche ou um castelo
 guardado por um dragão!
 Você nunca entenderia.
 Não é o pai dela!
 É tão bom ter a família
 reunida para o jantar.
-- Harold!
-- Shrek!
-- Fiona!
-- Fiona!
-- Mamã!
-- Harold...
+-Harold!
+-Shrek!
+-Fiona!
+-Fiona!
+-Mamã!
+-Harold...
 Burro!
 As tuas lágrimas derramadas
 chamaram por mim
@@ -423,11 +423,11 @@ Oh, meu Deus.
 Oh, olha para ti.
 Estás toda...
 ... crescida.
-- Quem és tu?
-- Oh, doçura!
+-Quem és tu?
+-Oh, doçura!
 Sou a tua Fada-Madrinha.
-- Eu tenho uma Fada-Madrinha?
-- Shh, shhh.
+-Eu tenho uma Fada-Madrinha?
+-Shh, shhh.
 Não te preocupes.
 Estou aqui para melhorar tudo.
 Apenas com um...
@@ -443,8 +443,8 @@ As tuas preocupações desaparecerão,
 a tua alma será limpa
 Confia nos teus amigos móveis
 Ajudamos-te a lançar uma nova moda
-- Ponho-te bela, ponho-te incrível!
-- O tipo de rapariga que um príncipe gostaria!
+-Ponho-te bela, ponho-te incrível!
+-O tipo de rapariga que um príncipe gostaria!
 Eles vão escrever o teu nome
 na parede da casa de banho...
 "Para felicidade eterna,
@@ -475,8 +475,8 @@ Muito obrigado,
 Fada Madrinha,
 mas não preciso realmente
 disto tudo.
-- Muito bem. Como queiras.
-- Também não gostávamos de ti.
+-Muito bem. Como queiras.
+-Também não gostávamos de ti.
 Fiona? Fiona?
 Oh! Arranjaste um cachorrinho?
 No meu quarto só encontrei champô.
@@ -486,16 +486,16 @@ Quero que conheçam o meu marido, Shrek.
 Teu marido? O quê? O que é que disseste?
 Quando é que isso aconteceu?
 O Shrek foi quem me salvou.
-- Mas isso não pode estar certo.
-- Óptimo, mais familiares!
+-Mas isso não pode estar certo.
+-Óptimo, mais familiares!
 Ela só está a tentar ajudar.
 Boa! Ela pode-nos ajudar a fazer as malas.
 Querida agarra o teu casaco. Vamos embora.
-- O quê?
-- Eu não quero partir.
+-O quê?
+-Eu não quero partir.
 Quando é que decidiste isto?
-- Pouco depois de chegarmos.
-- Olha, desculpa-me...
+-Pouco depois de chegarmos.
+-Olha, desculpa-me...
 Não, está tudo bem.
 Eu tenho de ir na mesma.
 Mas lembra-te, querida.
@@ -522,8 +522,8 @@ Claro. Queres que faça
 as malas por ti?
 És inacreditável!
 Estás a portar-te como...
-- Vamos! Diz!
-- Como um ogre!
+-Vamos! Diz!
+-Como um ogre!
 Aqui tens uma notícia nova para ti!
 Quer os teus pais gostem ou não...
 Eu sou um ogre!
@@ -555,8 +555,8 @@ Não te lembras de quando
 nós éramos jovens?
 Costumávamos passear
 à beira do lago dos lírios e...
-- ... eles estavam a florir.
-- O nosso primeiro beijo.
+-... eles estavam a florir.
+-O nosso primeiro beijo.
 Não é a mesma coisa!
 Eu acho que tu ainda não percebeste que
 a nossa filha casou com um monstro!
@@ -568,8 +568,8 @@ Está tudo maravilhoso!
 Gostava de saber
 como é que podia ficar ainda pior.
 Olá, Harold.
-- O que é que aconteceu?
-- Nada, querida!
+-O que é que aconteceu?
+-Nada, querida!
 É só a minha velha ferida
 das cruzadas a fazer das suas!
 Vou só esticá-la
@@ -632,8 +632,8 @@ não quer que eu volte atrás na minha parte.
 De facto, não.
 Então, a Fiona e o Encantado
 vão ficar juntos.
-- Sim.
-- Acredita em mim, Harold. É o que é melhor.
+-Sim.
+-Acredita em mim, Harold. É o que é melhor.
 Não apenas para a tua filha...
 ... mas para o teu Reino.
 O que é que é suposto
@@ -799,7 +799,7 @@ pela minha família.
 A minha mãe está doente.
 E o meu pai vive do lixo!
 O Rei ofereceu-me muito ouro e eu
-tenho uma ninhada de irmãos...
+tenho uma ninhada de irmãos...EiTS
 Pára, pára, pára!
 O pai da Fiona pagou-te
 para fazeres isto?
@@ -967,6 +967,7 @@ Desculpe entrar desta maneira...
 Que diabos faz você aqui?
 Bom, parece que a Fiona não
 está propriamente feliz.
+EiTS
 E existe alguma dúvida do porquê?
 Bem, vamos explorar isso, sim?
 Ah. P, P, P...
