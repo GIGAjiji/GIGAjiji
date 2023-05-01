@@ -618,12 +618,12 @@ A minha dieta está arruinada.
 Espero que esteja feliz. Eh... ok.
 Duas sandes Renascença,
 sem maionese... anéis de chili...
-- Eu quero o Menu Medieval.
-- Sim, um Menu Medieval e, Harold...
-- Fritos Enrolados?
-- Não, Obrigado.
-- Um Taco de massa fermentada, então?
-- A sério que não quero nada.
+-Eu quero o Menu Medieval.
+-Sim, um Menu Medieval e, Harold...
+-Fritos Enrolados?
+-Não, Obrigado.
+-Um Taco de massa fermentada, então?
+-A sério que não quero nada.
 O seu pedido Fada Madrinha.
 E isto vem com o Menu Medieval.
 Toma lá querido.
@@ -901,8 +901,8 @@ Esse seria o pequeno-almoço do cão,
 Sua Majestade.
 Ah, sim. Muito bem.
 Continua, Cedric.
-- Pai? Pai, viste o Shrek?
-- Não, querida.
+-Pai? Pai, viste o Shrek?
+-Não, querida.
 Tenho a certeza que ele foi só à procura de
 um belo... buraco de lama para se acalmar.
 Sabes, depois da vossa discussão
