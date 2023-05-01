@@ -1813,8 +1813,9 @@ Uno, dos, quatro, dá-lhe!
 Bichano e Burro, todos...
 Ela é supersticiosa.
 Gatos pretos e bonecos de voodoo
-- Canta, Bichano!
-- Eu sinto uma premonição
+EiTS
+-Canta, Bichano!
+-Eu sinto uma premonição
 Aquela rapariga vai ser o meu fim
 Aqui vamos nós!
 Ela está numa de novas sensações
